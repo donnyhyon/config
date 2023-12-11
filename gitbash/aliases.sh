@@ -11,6 +11,7 @@ alias gcam='git commit -m'
 alias gp='git push'
 alias createalias='cd "~/c/Program Files/Git/etc/profile.d" && code aliases.sh'
 alias newalias='cd "~/c/Program Files/Git/etc/profile.d" && code aliases.sh'
+alias gtree="git log --oneline --graph --decorate --all"
 
 alias repos='cd ~/repos/'
 
